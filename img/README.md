@@ -1,1 +1,1 @@
-All image files should go in this directory. They can have any extensions (.jpg, .png, etc.)
+All image files should go in this directory. They can have any extensions (.jpg, .png, etc.)<img width="960" height="540" alt="1Sam" src="https://github.com/user-attachments/assets/bb0c2b21-f7e1-47ca-b56d-ef7925f9f2ce" />
